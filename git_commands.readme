@@ -1,0 +1,9 @@
+##
+# This is to store useful commands for git:
+#
+# git clone https://github.com/LiteBoosting/LLM_testing.git（注意有效的git地址一定是xxx.git）
+# git pull https://github.com/LiteBoosting/LLM_testing.git main
+# git add .
+# git commit -m "xxxx"
+# git push -u https://github.com/LiteBoosting/LLM_testing.git main
+##
